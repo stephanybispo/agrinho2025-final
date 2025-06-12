@@ -1,17 +1,29 @@
-Objetivo do Site
+Sobre o Site – Conexão Campo-Cidade: Natureza Viva no Paraná
+O site “Conexão Campo-Cidade” é um projeto educativo desenvolvido com o objetivo de aproximar o conhecimento ambiental da realidade dos jovens e da comunidade escolar, valorizando os recursos naturais e a cultura rural do estado do Paraná.
 
-Este site tem como finalidade promover a conscientização ambiental e valorizar a conexão entre o campo e a cidade, destacando aspectos importantes da natureza e da cultura do estado do Paraná. Por meio de informações claras e educativas, o conteúdo busca sensibilizar o visitante sobre a preservação da vegetação nativa, a importância das frutas regionais e a conservação do pinheiro araucária — espécie símbolo da região Sul do Brasil.
+Por meio de uma linguagem acessível e visualmente atrativa, o site propõe uma jornada por temas que fazem parte do cotidiano paranaense, incentivando a reflexão sobre a preservação ambiental e a relação entre o campo e a cidade.
 
-Conteúdo do Site
+O que o site oferece:
+Navegação simples e intuitiva, com layout responsivo para diferentes dispositivos;
 
-O site está estruturado em quatro seções principais, cada uma com um foco específico:
+Conteúdo dividido em quatro seções principais, com textos curtos, imagens ilustrativas e informações relevantes;
 
-Página Inicial: Apresenta a proposta geral do projeto, contextualizando a relação entre o campo e a cidade. Introduz o visitante ao tema e oferece uma visão panorâmica sobre a importância da preservação ambiental no Paraná.
+Estímulo à educação ambiental por meio de exemplos reais da vegetação e da produção agrícola local.
 
-Frutas: Aborda a diversidade de vergamotas (também conhecidas como tangerinas ou mexericas) cultivadas no Paraná. Explica suas características, variedades mais comuns e seu papel na agricultura familiar e na alimentação regional.
+Seções do site:
+🔸 Página Inicial
+Apresenta o propósito do site e convida o visitante a refletir sobre a importância do equilíbrio entre natureza, produção e sociedade urbana. É o ponto de partida para explorar os conteúdos.
 
-Vegetação: Explora os principais tipos de vegetação do estado, como a Mata Atlântica, os campos naturais e o cerrado. Reforça a necessidade da preservação dessas áreas, que abrigam uma rica biodiversidade.
+🔸 Frutas
+Explora a diversidade de vergamotas no Paraná, destacando suas variedades (como Ponkan, Montenegrina e Murcott), valor nutricional, e importância econômica para a agricultura familiar.
 
-Pinheiros Araucária: Destaca a relevância ecológica e cultural do pinheiro-do-paraná (Araucária angustifolia). Informa sobre sua situação de risco, as causas do desmatamento e os esforços voltados à sua conservação.
+🔸 Vegetação
+Apresenta os principais tipos de vegetação encontrados no estado, como Mata Atlântica, campos naturais e áreas de cerrado, mostrando a necessidade da preservação desses biomas ameaçados.
+
+🔸 Pinheiros Araucária
+Destaca a relevância da Araucária angustifolia, árvore símbolo do sul do Brasil. A seção explica os riscos que ela enfrenta e reforça a importância de ações para sua conservação.
+
+Público-alvo
+O site é voltado a estudantes, professores, famílias e qualquer pessoa interessada em aprender mais sobre o meio ambiente do Paraná. Seu conteúdo pode ser usado como material de apoio escolar ou ferramenta de sensibilização em projetos comunitários e educativos.
 
 
